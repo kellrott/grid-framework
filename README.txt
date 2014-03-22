@@ -11,10 +11,6 @@ then using the 'qconf' commands to enable/disable the nodes.
 Installing GridEngine:
 ------------------
 
-option #1) install from source
-
-option #2) sudo apt-get install torque-server, torque-mom (also potentially relevant: torque-dev, torque-client)
-
 
 ==Structure Overview of the Framework==
 ---------------------------------------
